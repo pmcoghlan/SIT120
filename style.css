@@ -1,9 +1,9 @@
-/* styles.css */
+/* Set the background color to dark blue */
 body {
-    background-color: #f7f7f7;
-}
-
-h1 {
-    font-size: 28px;
-    text-align: center;
-}
+    background-color: lightblue; /* You can adjust the color code to your preference */
+  }
+  
+  /* Set the text color to white */
+  body, p, h1, h2 {
+    color: black;
+  }
